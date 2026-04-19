@@ -87,4 +87,3 @@ Each `GNNBlock` consists of 3 layers of `DenseGCNConv` with BatchNorm and SELU a
 | PROTEINS | DiffPool (this repo) | **72 – 76 %** |
 | PROTEINS | GCN baseline | ~70 % |
 | PROTEINS | Original paper | 76.3 % |
-
