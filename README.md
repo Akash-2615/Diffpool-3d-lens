@@ -1,4 +1,4 @@
-# 🔬 DiffPool GNN — 3-D Graph Evolution Visualizer
+# 🔬 DiffPool-3D-Lens
 
 An interactive platform to train and explore **Differentiable Pooling (DiffPool) GNNs** on the PROTEINS benchmark. This project allows you to witness graph coarsening in real-time through immersive 3-D visualizations.
 
